@@ -9,3 +9,7 @@ section {
 .social-media-icon {
     max-width: 20px;
 }
+
+img {
+    max-width: 150px;
+}

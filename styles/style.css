@@ -18,3 +18,9 @@ h2 {
 ul {
     list-style: none;
 }
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
